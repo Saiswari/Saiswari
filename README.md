@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saiswari
-- 👀 I’m interested in Programming, DSA and AI
+- 👀 I’m interested in Programming, DSA 
 - 🌱 I’m currently in growing phase.
 
 <!---
